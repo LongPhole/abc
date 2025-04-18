@@ -6,7 +6,7 @@ public class Bai2_3 {
         int n = sc.nextInt();
         for(int i = 2 ; i < n ; i++){
             if(n % i != 0){
-
+                System.out.println("Long dep trai");
             }
         }
     }
